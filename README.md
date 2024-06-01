@@ -1,2 +1,2 @@
 # Chat_memory
-# Langchain, mistral, fast api
+# Langchain, mistral, gradio
